@@ -22,7 +22,6 @@ Having graduated from [Codaisseur's Javascript Academy](https://codaisseur.com/)
 
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img alt="styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" /> <img alt="styled-components" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img alt="styled-components" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 
-<br>
 
 ### Recent Projects:
 
@@ -32,7 +31,6 @@ Having graduated from [Codaisseur's Javascript Academy](https://codaisseur.com/)
 
 Created as my graduation project at Codaisseur, [Seasonal Timeline](https://github.com/mferraris/seasonal-timeline_client) is a web application designed to inform the users about the fruits and vegetables they eat and help promote sustainable, healthy habits; as well as connecting local producers to potential customers.
 
-<br>
 
 #### Sokoban 🕹️
 
