@@ -25,7 +25,6 @@ Having graduated from [Codaisseur's Javascript Academy](https://codaisseur.com/)
 
 ### Recent Projects:
 
-<br>
 
 #### Seasonal Timeline 🌱
 
@@ -38,7 +37,6 @@ Created as my graduation project at Codaisseur, [Seasonal Timeline](https://gith
 
 ### Get In Touch:
 
-<br>
 
 <a href="https://www.linkedin.com/in/miguelferraris/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedIn&logoColor=white&style=for-the-badge"/><a>
 
