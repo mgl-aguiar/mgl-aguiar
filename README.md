@@ -2,7 +2,7 @@
 
 <br>
 
-## I'm Miguel
+## My name is Miguel
 
 <br>
 
@@ -32,6 +32,8 @@ Created as my graduation project at Codaisseur, [Seasonal Timeline](https://gith
 
 
 #### Sokoban 🕹️
+
+
 
 <br><br>
 
