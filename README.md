@@ -28,12 +28,12 @@ Having graduated from [Codaisseur's Javascript Academy](https://codaisseur.com/)
 
 #### Seasonal Timeline 🌱
 
-Created as my graduation project at Codaisseur, [Seasonal Timeline](https://github.com/mferraris/seasonal-timeline_client) is a web application designed to inform the users about the fruits and vegetables they eat and help promote sustainable, healthy habits; as well as connecting local producers to potential customers.
+Created as my graduation project at Codaisseur, [Seasonal Timeline](https://github.com/mgl-aguiar/seasonal-timeline_client) is a web application designed to inform the users about the fruits and vegetables they eat and help promote sustainable, healthy habits; as well as connecting local producers to potential customers.
 
 
 #### Sokoban 🕹️
 
-
+Classic puzzle game created as a group project in about 4 days using only React, together with fellow Codaisseur alumni [Alessandro Generale](https://github.com/AlessandroGenerale17). You can check the code over [here](https://github.com/AlessandroGenerale17/sokoban).
 
 <br><br>
 
