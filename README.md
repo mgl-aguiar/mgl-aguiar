@@ -26,9 +26,9 @@ Having graduated from [Codaisseur's Javascript Academy](https://codaisseur.com/)
 ### Recent Projects:
 
 
-#### Seasonal Timeline 🌱
+#### Seasonally 🌱
 
-Created as my graduation project at Codaisseur, [Seasonal Timeline](https://github.com/mgl-aguiar/seasonal-timeline_client) is a web application designed to inform the users about the fruits and vegetables they eat and help promote sustainable, healthy habits; as well as connecting local producers to potential customers.
+Created as my graduation project at Codaisseur, [Seasonally](https://github.com/mgl-aguiar/seasonal-timeline_client) is a web application designed to inform the users about the fruits and vegetables they eat and help promote sustainable, healthy habits; as well as connecting local producers to potential customers.
 
 
 #### Sokoban 🕹️
