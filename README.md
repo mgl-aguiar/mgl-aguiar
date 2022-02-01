@@ -6,9 +6,9 @@
 
 <br>
 
-I'm from Rio de Janeiro, Brazil, and have been living in The Netherlands since 2019. I have a background in graphic design and illustration, but recently decided I wanted to pursue a career as a developer.
+I'm from Rio de Janeiro, Brazil, and have been living in The Netherlands since 2019.
 
-Having graduated from [Codaisseur's Javascript Academy](https://codaisseur.com/), where I learned to create full-stack applications using modern technologies and tools, I am excited to start this new chapter.
+I have a background in graphic design and illustration, but recently began a new career as a developer after gratuating from [Codaisseur's Javascript Academy](https://codaisseur.com/)
 
 <br>
 
@@ -20,7 +20,7 @@ Having graduated from [Codaisseur's Javascript Academy](https://codaisseur.com/)
 
 ### Currently learning:
 
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
+<img alt="React-Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
 <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /> 
 <img alt="GraphQL" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 
