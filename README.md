@@ -34,7 +34,6 @@ Created as my graduation project at Codaisseur, [Seasonally](https://github.com/
 
 Classic puzzle game created as a group project in about 4 days using only React, together with fellow Codaisseur alumni [Alessandro Generale](https://github.com/AlessandroGenerale17). You can check the code over [here](https://github.com/AlessandroGenerale17/sokoban).
 
-<br><br>
 
 ### Get In Touch:
 
