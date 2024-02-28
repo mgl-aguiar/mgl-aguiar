@@ -4,7 +4,7 @@
 
 My name is Miguel, I'm from Rio de Janeiro, Brazil, and have been living in The Netherlands since 2019.
 
-I have a background in graphic design and illustration, but recently began a new career as a software developer.
+I have a background in graphic design and illustration but now I work as a developer.
 
 <br>
 
