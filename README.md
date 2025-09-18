@@ -1,7 +1,3 @@
-<img alt="hello there" src="https://media0.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif?cid=ecf05e47u56q36z3urmv18gyicgwi34dr54fjbev42imipgx&rid=giphy.gif&ct=g" height="150px" />
-
-<br>
-
 My name is Miguel, I'm from Rio de Janeiro, Brazil, and have been living in The Netherlands since 2019.
 
 I have a background in graphic design and illustration but started working as a develper in January 2022.
