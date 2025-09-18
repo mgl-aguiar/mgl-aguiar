@@ -17,6 +17,6 @@ I have a background in graphic design and illustration but started working as a 
 <strong>contact me:</strong>
 
 
-<a href="https://www.linkedin.com/in/miguelferraris/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedIn&logoColor=white&style=for-the-badge"/><a>
+<a href="https://www.linkedin.com/in/mgl-aguiar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedIn&logoColor=white&style=for-the-badge"/><a>
 
-<a href="mailto: mgl.aguiar@protonmail.com"><img alt="Protonmail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
+<a href="mailto: mgl.aguiar@proton.me"><img alt="Protonmail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
