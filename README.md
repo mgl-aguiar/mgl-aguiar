@@ -14,7 +14,6 @@ I have a background in graphic design and illustration but started working as a 
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" /> <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" /> <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" /> <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />  
 
 <br>
-https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white
 <strong>contact me:</strong>
 
 
